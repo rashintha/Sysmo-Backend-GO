@@ -1,0 +1,13 @@
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+*.exe
+*.env
+bin/*
+.env
+log/*
+firebase_config.json
+.idea
+./idea/*
